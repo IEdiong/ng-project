@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-hekto-banner',
+  selector: 'hkt-banner',
   templateUrl: './hekto-banner.component.html',
   styleUrls: ['./hekto-banner.component.scss']
 })
